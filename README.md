@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NodirNick
-- 👀 I’m interested in python
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
